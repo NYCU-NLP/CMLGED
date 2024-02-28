@@ -1,5 +1,5 @@
 # Chinese Multi-Label Grammatical Error Detection
-**C**hinese **M**ulti-**L**abel **G**rammatical **E**rror **D**etection (CMLGED) Corpus is  collected and annotated by NYCU NLP Lab (httpa://ainlp.tw/).<br><br>
+**C**hinese **M**ulti-**L**abel **G**rammatical **E**rror **D**etection (CMLGED) Corpus is  collected and annotated by NYCU NLP Lab (https://ainlp.tw/).<br><br>
 The benchmark data came from the TOCFL learner corpus (Lee et al., 2018), including grammatical error annotation of 2,837 essays written by Chinese language learners originating from 46 different mother-tongue languages.We divided the paragraph into individual sentences splitting by the newline symbol and punctuations which include an exclamation, question, or sentence period.<br>
 
 In the dataset, the sentences contained at least one of four error labels: Missing words (denoted as M), Redundant words (R), incorrect word Selection (S), and Word ordering error (W).Table 1 provided the describe and example for these four types error. Finally, we have 19,546 sentences with a total of 27,189 labels. Each sentence contains average 27.9 characters and 1.39 labels.
